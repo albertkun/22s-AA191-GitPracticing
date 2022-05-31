@@ -31,7 +31,7 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 
 Group Name|Tool/Plugin|Comments|Implementation example
 ----------|----|--------|----------------------
-Asian American Discrimination @UCLA|Tool/Plugin|Comments|Example|
+Asian American Discrimination @UCLA| Leaflet Control Window | Our control window will be a nice introduction for users to our map application. We hope that it can provide more clarity on our application  |  |
 Geomaptivists|Tool/Plugin|Comments|Example|
 Wasted Opportunities|Tool/Plugin|Comments|Example|
 U C (residents in) LA|Tool/Plugin|Comments|Example|
