@@ -35,7 +35,7 @@ Asian American Discrimination @UCLA|Tool/Plugin|Comments|Example|
 Geomaptivists|Tool/Plugin|Comments|Example|
 Wasted Opportunities|Tool/Plugin|Comments|Example|
 U C (residents in) LA|Tool/Plugin|Comments|Example|
-Ph.D. Three|leaflet-control-window|This would be good to showcase the responses from each student; it will make the stories front and center|Example|
+Ph.D. Three|We reviewed the leaflet-control-window|This would be good to showcase the responses from each student; it will make the stories front and center|Example|
 Cute as Health|Tool/Plugin|Comments|Example|
 UCLgAy|Tool/Plugin|Comments|Example|
 Team International|Tool/Plugin|Comments|Example|
