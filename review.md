@@ -1,6 +1,9 @@
 # Leaflet Plugin Review Exercise
+
 ### Due 5/31
+
 ## Instructions
+
 1. Go to the Git Practicing repo and do a `git pull` (if you have not cloned it already, then clone it)
 2. Try out one of the following Leaflet plugins from the list below OR explore one from this list and add to the end of the table: https://leafletjs.com/plugins.html
 3. Find **your group** in the table, put the **tool** name, and **comments** about the tool, Plugin Review section below.
@@ -8,6 +11,7 @@
 5. Make a [**Pull Request**](https://medium.com/@urna.hybesis/pull-request-workflow-with-git-6-steps-guide-3858e30b5fa4) to this Repo and contribute your changes!
 
 ## Plugin List
+
 Plugin Name|Link
 --|--|
 **UI**
@@ -24,6 +28,15 @@ Leaflet Swoopy | https://wbkd.github.io/leaflet-swoopy/|
 Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 
 ## Plugin Review
-Group|Tool|Comments|Example
------|----|--------|----------------------
 
+Group Name|Tool/Plugin|Comments|Implementation example
+----------|----|--------|----------------------
+Asian American Discrimination @UCLA|Tool/Plugin|Comments|Example|
+Geomaptivists|Tool/Plugin|Comments|Example|
+Wasted Opportunities|Tool/Plugin|Comments|Example|
+U C (residents in) LA|Tool/Plugin|Comments|Example|
+Ph.D. Three|Tool/Plugin|Comments|Example|
+Cute as Health|Tool/Plugin|Comments|Example|
+UCLgAy|Tool/Plugin|Comments|Example|
+Team International|Tool/Plugin|Comments|Example|
+Tax Evaders|Tool/Plugin|Comments|Example|
