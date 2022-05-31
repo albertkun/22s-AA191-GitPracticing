@@ -4,7 +4,7 @@
 
 ## Instructions
 
-1. Go to the Git Practicing repo and do a `git pull` (if you have not cloned it already, then clone it)
+1. Go to the Git Practicing repo and do a `git pull` (if you have not cloned it already, then clone it). If you run into errors on the branch, you may need to run `git pull --rebase`
 2. Try out one of the following Leaflet plugins from the list below OR explore one from this list and add to the end of the table: https://leafletjs.com/plugins.html
 3. Find **your group** in the table, put the **tool** name, and **comments** about the tool, Plugin Review section below.
 4. If you were able to get the example up and running, put your GitHub pages example under the “**Example Implementation**”.
