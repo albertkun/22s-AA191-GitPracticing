@@ -29,14 +29,14 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 
 ## Plugin Review
 
-Group Name|Tool/Plugin|Comments|Implementation example
+Group Name|Tool/Plugin|Comments|**Optional** Implementation example
 ----------|----|--------|----------------------
-Asian American Discrimination @UCLA|Tool/Plugin|Comments|Example|
-Geomaptivists|Tool/Plugin|Comments|Example|
-Wasted Opportunities|Tool/Plugin|Comments|Example|
-U C (residents in) LA|Tool/Plugin|Comments|Example|
-Ph.D. Three|Tool/Plugin|Comments|Example|
-Cute as Health|Tool/Plugin|Comments|Example|
-UCLgAy|Tool/Plugin|Comments|Example|
-Team International|Tool/Plugin|Comments|Example|
-Tax Evaders|Tool/Plugin|Comments|Example|
+Asian American Discrimination @UCLA|Tool/Plugin|Comments|Optional:Example|
+Geomaptivists|Tool/Plugin|Comments|Optional:Example|
+Wasted Opportunities|Tool/Plugin|Comments|Optional:Example|
+U C (residents in) LA|Tool/Plugin|Comments|Optional:Example|
+Ph.D. Three|Beautify Marker|This might be good because|Optional:Example|
+Cute as Health|Tool/Plugin|Comments|Optional:Example|
+UCLgAy|Tool/Plugin|Comments|Optional:Example|
+Team International|Tool/Plugin|Comments|Optional:Example|
+Tax Evaders|Tool/Plugin|Comments|Optional:Example|
