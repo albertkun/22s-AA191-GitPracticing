@@ -38,5 +38,5 @@ U C (residents in) LA|Tool/Plugin|Comments|Example|
 Ph.D. Three|Tool/Plugin|Comments|Example|
 Cute as Health|Tool/Plugin|Comments|Example|
 UCLgAy|Tool/Plugin|Comments|Example|
-Team International|Tool/Plugin|Comments|Example|
+Team International|leaflet-pulse-icon|Creates a cool pulsing icon that can be passed into L.marker to be put on the map. color changes the pulse color and fillColor changes the color of the dot.|https://lindseymardona.github.io/22s-asiaam-191a-labs/week10/|
 Tax Evaders|Tool/Plugin|Comments|Example|
