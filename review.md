@@ -1,6 +1,6 @@
 # Leaflet Plugin Review Exercise
 
-### Due 5/31
+### Due 5/31 (for participation)
 
 ## Instructions
 
