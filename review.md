@@ -37,6 +37,6 @@ Wasted Opportunities|Tool/Plugin|Comments|Example|
 U C (residents in) LA|Tool/Plugin|Comments|Example|
 Ph.D. Three|Tool/Plugin|Comments|Example|
 Cute as Health|Tool/Plugin|Comments|Example|
-UCLgAy|Tool/Plugin|Comments|Example|
+UCLgAy|Leaflet.Sleep, leaflet-sidebar-v2|We looked at Leaflet.Sleep and leaflet-sidebar-v2, and we think we'll use these for our project. Leaflet.Sleep removes the annoying Leaflet map zoom-in when scrolling on the page, while leaflet-sidebar-v2 will be useful for creating a responsive layout, where we can put our interactive chart and then have it collapse when the user wants to view the map. |Example|
 Team International|Tool/Plugin|Comments|Example|
 Tax Evaders|Tool/Plugin|Comments|Example|
