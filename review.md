@@ -31,12 +31,12 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 
 Group Name|Tool/Plugin|Comments|**Optional** Implementation example
 ----------|----|--------|----------------------
-Asian American Discrimination @UCLA|Tool/Plugin|Comments|Example|
+Asian American Discrimination @UCLA| Leaflet Control Window | Our control window will be a nice introduction for users to our map application. We hope that it can provide more clarity on our application  |  |
 Geomaptivists|Tool/Plugin|Comments|Example|
 Wasted Opportunities|Tool/Plugin|Comments|Example|
 U C (residents in) LA|Tool/Plugin|Comments|Example|
 Ph.D. Three|We reviewed the leaflet-control-window|This would be good to showcase the responses from each student; it will make the stories front and center|Example|
 Cute as Health|Tool/Plugin|Comments|Example|
 UCLgAy|Tool/Plugin|Comments|Example|
-Team International|Tool/Plugin|Comments|Example|
+Team International|leaflet-pulse-icon|Creates a cool pulsing icon that can be passed into L.marker to be put on the map. color changes the pulse color and fillColor changes the color of the dot.|https://lindseymardona.github.io/22s-asiaam-191a-labs/week10/|
 Tax Evaders|Tool/Plugin|Comments|Example|
