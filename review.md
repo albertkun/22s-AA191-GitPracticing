@@ -34,7 +34,7 @@ Group Name|Tool/Plugin|Comments|**Optional** Implementation example
 Asian American Discrimination @UCLA| Leaflet Control Window | Our control window will be a nice introduction for users to our map application. We hope that it can provide more clarity on our application  |  |
 Geomaptivists|Tool/Plugin|Comments|Example|
 Wasted Opportunities|Tool/Plugin|Comments|Example|
-U C (residents in) LA|Tool/Plugin|Comments|Example|
+U C (residents in) LA|Leaflet Swoopy|We created swoopy arrows that pointed from one location on the map to another, and integrated it into our final project by pointing towards LTT/MG|https://emmashanson.github.io/asianam191Akristenemmakeri/final/index.html|
 Ph.D. Three|We reviewed the leaflet-control-window|This would be good to showcase the responses from each student; it will make the stories front and center|Example|
 Cute as Health|Tool/Plugin|Comments|Example|
 UCLgAy|Leaflet.Sleep, leaflet-sidebar-v2|We looked at Leaflet.Sleep and leaflet-sidebar-v2, and we think we'll use these for our project. Leaflet.Sleep removes the annoying Leaflet map zoom-in when scrolling on the page, while leaflet-sidebar-v2 will be useful for creating a responsive layout, where we can put our interactive chart and then have it collapse when the user wants to view the map. |Example|
