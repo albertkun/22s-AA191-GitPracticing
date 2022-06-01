@@ -29,14 +29,14 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 
 ## Plugin Review
 
-Group Name|Tool/Plugin|Comments|Implementation example
+Group Name|Tool/Plugin|Comments|**Optional** Implementation example
 ----------|----|--------|----------------------
-Asian American Discrimination @UCLA|Tool/Plugin|Comments|Example|
+Asian American Discrimination @UCLA| Leaflet Control Window | Our control window will be a nice introduction for users to our map application. We hope that it can provide more clarity on our application  |  |
 Geomaptivists|Tool/Plugin|Comments|Example|
 Wasted Opportunities|Tool/Plugin|Comments|Example|
 U C (residents in) LA|Tool/Plugin|Comments|Example|
 Ph.D. Three|Tool/Plugin|Comments|Example|
 Cute as Health|Tool/Plugin|Comments|Example|
 UCLgAy|Leaflet.Sleep, leaflet-sidebar-v2|We looked at Leaflet.Sleep and leaflet-sidebar-v2, and we think we'll use these for our project. Leaflet.Sleep removes the annoying Leaflet map zoom-in when scrolling on the page, while leaflet-sidebar-v2 will be useful for creating a responsive layout, where we can put our interactive chart and then have it collapse when the user wants to view the map. |Example|
-Team International|Tool/Plugin|Comments|Example|
+Team International|leaflet-pulse-icon|Creates a cool pulsing icon that can be passed into L.marker to be put on the map. color changes the pulse color and fillColor changes the color of the dot.|https://lindseymardona.github.io/22s-asiaam-191a-labs/week10/|
 Tax Evaders|Tool/Plugin|Comments|Example|
