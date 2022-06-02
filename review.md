@@ -32,7 +32,7 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 Group Name|Tool/Plugin|Comments|**Optional** Implementation example
 ----------|----|--------|----------------------
 Asian American Discrimination @UCLA| Leaflet Control Window | Our control window will be a nice introduction for users to our map application. We hope that it can provide more clarity on our application  |  |
-Geomaptivists|Tool/Plugin|Comments|Example|
+Geomaptivists| Marker Cluster | This will help with distinguishing between as well as interacting with different markers in the same location. |Example|
 Wasted Opportunities|Tool/Plugin|Comments|Example|
 U C (residents in) LA|Leaflet Swoopy|We created swoopy arrows that pointed from one location on the map to another, and integrated it into our final project by pointing towards LTT/MG|https://emmashanson.github.io/asianam191Akristenemmakeri/final/index.html|
 Ph.D. Three|We reviewed the leaflet-control-window|This would be good to showcase the responses from each student; it will make the stories front and center|Example|
